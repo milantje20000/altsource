@@ -1,0 +1,44 @@
+{
+  "name": "Haunted Mansion Repo",
+  "subtitle": "A source for all Haunted Mansion Apps",
+  "description": "",
+  "iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
+  "website": "",
+  "patreonURL": "",
+  "tintColor": "#6156e2",
+  "featuredApps": [
+    "supplies.wall.phoenix"
+  ],
+  "apps": [
+    {
+      "name": "Phoenix",
+      "bundleIdentifier": "supplies.wall.phoenix",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/qUFaUqD.png",
+      "tintColor": "#7f7f7f",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://phoenixpwn.com/download.php",
+          "size": 23372759,
+          "version": "6.0",
+          "buildVersion": "",
+          "date": "2025-03-24T10:21:00+01:00",
+          "localizedDescription": null,
+          "minOSVersion": null,
+          "maxOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
